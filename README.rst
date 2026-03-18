@@ -51,7 +51,7 @@ file which notes API breakages.
 The Biopython package is open source software made available under generous
 terms. Please see the `LICENSE
 <https://github.com/biopython/biopython/blob/master/LICENSE.rst>`_ file for
-further details.
+further details.  
 
 If you use Biopython in work contributing to a scientific publication, we ask
 that you cite our application note (below) or one of the module specific
