@@ -239,6 +239,7 @@ def _retrieve_features(adaptor, primary_id):
                     BiopythonWarning,
                 )
 
+            
             # For SwissProt unknown positions (?)
             if start is None:
                 start = SeqFeature.UnknownPosition()
