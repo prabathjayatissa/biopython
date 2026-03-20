@@ -19,7 +19,6 @@ Note: Currently we do not support recording per-letter-annotations
 """
 
 from typing import Optional
-
 from Bio import SeqFeature
 from Bio.Seq import Seq
 from Bio.Seq import SequenceDataAbstractBaseClass
